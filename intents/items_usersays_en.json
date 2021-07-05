@@ -1,0 +1,81 @@
+[
+  {
+    "id": "080cf455-c97e-44d7-8452-3818a20af44a",
+    "data": [
+      {
+        "text": "ice tea",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76a20f63-d697-44ba-aae3-b6dbe919ffed",
+    "data": [
+      {
+        "text": "soda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ed5c248-5cb2-4a50-8deb-391a63de16ab",
+    "data": [
+      {
+        "text": "jaamun",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5e657fc-813e-4e3c-a315-8088ee346aeb",
+    "data": [
+      {
+        "text": "tamato soup",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c45cd100-617a-4b58-afbf-6c5462c9d688",
+    "data": [
+      {
+        "text": "paneer tikka",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f51a2e09-d1bb-46e4-b6c3-eb1dd1be9c0f",
+    "data": [
+      {
+        "text": "vegetables samosa",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
